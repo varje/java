@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch/makery/address/view/BirthdayStatistics.fxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch/makery/address/view/BirthdayStatisticsController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/package/macosx/AddressApp-volume.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/package/macosx/AddressApp.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/package/windows/AddressApp-setup-icon.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/package/windows/AddressApp.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/resources/images/address_book_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.fxbuild" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/resources/test.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch/makery/address/MainApp.java" afterPath="$PROJECT_DIR$/src/ch/makery/address/MainApp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch/makery/address/view/RootLayout.fxml" afterPath="$PROJECT_DIR$/src/ch/makery/address/view/RootLayout.fxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch/makery/address/view/RootLayoutController.java" afterPath="$PROJECT_DIR$/src/ch/makery/address/view/RootLayoutController.java" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,19 +68,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="PersonOverview.fxml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch/makery/address/view/PersonOverview.fxml">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="67" column="13" lean-forward="false" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RootLayout.fxml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch/makery/address/view/RootLayout.fxml">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RootLayoutController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RootLayoutController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch/makery/address/view/RootLayoutController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="544">
@@ -105,6 +95,46 @@
                 <element signature="e#3285#3286#0" expanded="true" />
                 <element signature="e#3333#3334#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="javafx.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javafx.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.fxbuild" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.fxbuild">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build/build.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="127" column="34" lean-forward="false" selection-start-line="127" selection-start-column="34" selection-end-line="127" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/resources/test.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -160,52 +190,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LocalDateAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch/makery/address/util/LocalDateAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PersonListWrapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch/makery/address/model/PersonListWrapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#488#489#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PersonEditDialogController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch/makery/address/view/PersonEditDialogController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="565">
-              <caret line="160" column="1" lean-forward="false" selection-start-line="160" selection-start-column="1" selection-end-line="160" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1102#1103#0" expanded="true" />
-                <element signature="e#1148#1149#0" expanded="true" />
-                <element signature="e#1857#1858#0" expanded="true" />
-                <element signature="e#1889#1890#0" expanded="true" />
-                <element signature="e#2569#2570#0" expanded="true" />
-                <element signature="e#2604#2605#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -248,6 +232,8 @@
         <option value="$PROJECT_DIR$/src/ch/makery/address/view/BirthdayStatisticsController.java" />
         <option value="$PROJECT_DIR$/src/ch/makery/address/view/RootLayout.fxml" />
         <option value="$PROJECT_DIR$/src/ch/makery/address/view/RootLayoutController.java" />
+        <option value="$PROJECT_DIR$/build.fxbuild" />
+        <option value="$PROJECT_DIR$/build/build.xml" />
       </list>
     </option>
   </component>
@@ -291,6 +277,30 @@
               <item name="javafx" type="b2602c69:ProjectViewProjectNode" />
               <item name="javafx" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javafx" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javafx" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="package" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javafx" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javafx" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javafx" type="b2602c69:ProjectViewProjectNode" />
@@ -348,12 +358,17 @@
     <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Elitebook 1020\IdeaProjects\javafx\build\package\windows" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Elitebook 1020\IdeaProjects\javafx\build" />
+      <recent name="C:\Users\Elitebook 1020\IdeaProjects\javafx\build\package\macosx" />
       <recent name="C:\Users\Elitebook 1020\IdeaProjects\javafx\resources\images" />
     </key>
   </component>
@@ -545,7 +560,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -558,7 +573,7 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27708334" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -591,6 +606,9 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+    <buildFile url="file://$PROJECT_DIR$/build/build.xml">
+      <expanded value="true" />
+    </buildFile>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ch/makery/address/view/PersonOverview.fxml">
@@ -656,41 +674,41 @@
         <state relative-caret-position="-1953">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1509020661188" expanded="true" signature="50004:50022" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50004:50035" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50004:50050" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50085:52234" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50098:52219" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50152:50447" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50171:50432" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50234:50412" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50274:50378" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50295:50356" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50497:50824" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50516:50809" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50611:50789" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50651:50755" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50672:50733" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50875:51140" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50894:51125" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50927:51105" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50967:51071" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="50988:51049" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="51183:51489" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="51202:51474" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="51276:51454" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="51316:51420" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="51337:51398" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="51540:51888" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="51559:51873" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="51636:51853" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="51676:51819" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="51697:51797" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="51940:52205" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="51959:52190" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="51992:52170" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="52032:52136" ph="..." />
-            <marker date="1509020661188" expanded="true" signature="52053:52114" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="48888:48906" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="48888:48919" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="48888:48934" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="52616:54519" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="52616:54504" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="52616:52732" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="52616:52717" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="52616:52697" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="52616:52663" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="52616:52641" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="52782:53109" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="52801:53094" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="52896:53074" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="52936:53040" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="52957:53018" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="53160:53425" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="53179:53410" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="53212:53390" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="53252:53356" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="53273:53334" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="53468:53774" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="53487:53759" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="53561:53739" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="53601:53705" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="53622:53683" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="53825:54173" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="53844:54158" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="53921:54138" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="53961:54104" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="53982:54082" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="54225:54490" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="54244:54475" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="54277:54455" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="54317:54421" ph="..." />
+            <marker date="1509022163355" expanded="true" signature="54338:54399" ph="..." />
           </folding>
         </state>
       </provider>
@@ -855,16 +873,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/javafx.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.fxbuild">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/resources/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="127" column="34" lean-forward="false" selection-start-line="127" selection-start-column="34" selection-end-line="127" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>unnamed</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
