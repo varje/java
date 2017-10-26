@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch/makery/address/model/PersonListWrapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch/makery/address/util/LocalDateAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch/makery/address/view/RootLayoutController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch/makery/address/view/BirthdayStatistics.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch/makery/address/view/BirthdayStatisticsController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch/makery/address/MainApp.java" afterPath="$PROJECT_DIR$/src/ch/makery/address/MainApp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch/makery/address/model/Person.java" afterPath="$PROJECT_DIR$/src/ch/makery/address/model/Person.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch/makery/address/view/RootLayout.fxml" afterPath="$PROJECT_DIR$/src/ch/makery/address/view/RootLayout.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch/makery/address/view/RootLayoutController.java" afterPath="$PROJECT_DIR$/src/ch/makery/address/view/RootLayoutController.java" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,44 +80,36 @@
       </file>
       <file leaf-file-name="RootLayout.fxml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch/makery/address/view/RootLayout.fxml">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="46" column="13" lean-forward="false" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="35" column="81" lean-forward="false" selection-start-line="35" selection-start-column="81" selection-end-line="35" selection-end-column="81" />
               <folding />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+          <provider editor-type-id="JavaFX-Scene-Builder">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RootLayoutController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RootLayoutController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ch/makery/address/view/RootLayoutController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="565">
-              <caret line="118" column="1" lean-forward="false" selection-start-line="118" selection-start-column="1" selection-end-line="118" selection-end-column="1" />
+            <state relative-caret-position="544">
+              <caret line="121" column="41" lean-forward="false" selection-start-line="121" selection-start-column="41" selection-end-line="121" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#710#711#0" expanded="true" />
-                <element signature="e#748#749#0" expanded="true" />
-                <element signature="e#3149#3150#0" expanded="true" />
-                <element signature="e#3179#3180#0" expanded="true" />
+                <element signature="e#743#744#0" expanded="true" />
+                <element signature="e#781#782#0" expanded="true" />
+                <element signature="e#3182#3183#0" expanded="true" />
+                <element signature="e#3212#3213#0" expanded="true" />
+                <element signature="e#3285#3286#0" expanded="true" />
+                <element signature="e#3333#3334#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DarkTheme.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch/makery/address/view/DarkTheme.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="142" column="1" lean-forward="false" selection-start-line="142" selection-start-column="1" selection-end-line="142" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch/makery/address/model/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="397">
@@ -132,11 +123,36 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="BirthdayStatistics.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch/makery/address/view/BirthdayStatistics.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BirthdayStatisticsController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch/makery/address/view/BirthdayStatisticsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1407">
+              <caret line="67" column="1" lean-forward="false" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="MainApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch/makery/address/MainApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="89" column="25" lean-forward="false" selection-start-line="89" selection-start-column="25" selection-end-line="89" selection-end-column="25" />
+            <state relative-caret-position="397">
+              <caret line="294" column="23" lean-forward="false" selection-start-line="294" selection-start-column="23" selection-end-line="294" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -169,19 +185,6 @@
                 <element signature="e#578#579#0" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PersonEditDialog.fxml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch/makery/address/view/PersonEditDialog.fxml">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="45" column="13" lean-forward="false" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
-            <state />
           </provider>
         </entry>
       </file>
@@ -238,11 +241,13 @@
         <option value="$PROJECT_DIR$/src/ch/makery/address/view/PersonEditDialog.fxml" />
         <option value="$PROJECT_DIR$/src/ch/makery/address/view/PersonOverview.fxml" />
         <option value="$PROJECT_DIR$/src/ch/makery/address/model/PersonListWrapper.java" />
-        <option value="$PROJECT_DIR$/src/ch/makery/address/view/RootLayoutController.java" />
-        <option value="$PROJECT_DIR$/src/ch/makery/address/view/RootLayout.fxml" />
-        <option value="$PROJECT_DIR$/src/ch/makery/address/MainApp.java" />
         <option value="$PROJECT_DIR$/src/ch/makery/address/util/LocalDateAdapter.java" />
         <option value="$PROJECT_DIR$/src/ch/makery/address/model/Person.java" />
+        <option value="$PROJECT_DIR$/src/ch/makery/address/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/ch/makery/address/view/BirthdayStatistics.fxml" />
+        <option value="$PROJECT_DIR$/src/ch/makery/address/view/BirthdayStatisticsController.java" />
+        <option value="$PROJECT_DIR$/src/ch/makery/address/view/RootLayout.fxml" />
+        <option value="$PROJECT_DIR$/src/ch/makery/address/view/RootLayoutController.java" />
       </list>
     </option>
   </component>
@@ -651,41 +656,41 @@
         <state relative-caret-position="-1953">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1509020020371" expanded="true" signature="48429:48447" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="48429:48460" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="48429:48475" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="48510:50659" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="48523:50644" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="48577:48872" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="48596:48857" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="48659:48837" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="48699:48803" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="48720:48781" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="48922:49249" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="48941:49234" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="49036:49214" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="49076:49180" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="49097:49158" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="49300:49565" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="49319:49550" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="49352:49530" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="49392:49496" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="49413:49474" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="49608:49914" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="49627:49899" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="49701:49879" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="49741:49845" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="49762:49823" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="49965:50313" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="49984:50298" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="50061:50278" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="50101:50244" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="50122:50222" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="50365:50630" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="50384:50615" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="50417:50595" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="50457:50561" ph="..." />
-            <marker date="1509020020371" expanded="true" signature="50478:50539" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50004:50022" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50004:50035" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50004:50050" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50085:52234" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50098:52219" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50152:50447" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50171:50432" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50234:50412" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50274:50378" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50295:50356" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50497:50824" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50516:50809" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50611:50789" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50651:50755" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50672:50733" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50875:51140" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50894:51125" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50927:51105" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50967:51071" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="50988:51049" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="51183:51489" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="51202:51474" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="51276:51454" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="51316:51420" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="51337:51398" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="51540:51888" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="51559:51873" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="51636:51853" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="51676:51819" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="51697:51797" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="51940:52205" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="51959:52190" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="51992:52170" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="52032:52136" ph="..." />
+            <marker date="1509020661188" expanded="true" signature="52053:52114" ph="..." />
           </folding>
         </state>
       </provider>
@@ -770,41 +775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/makery/address/view/RootLayoutController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="118" column="1" lean-forward="false" selection-start-line="118" selection-start-column="1" selection-end-line="118" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-            <element signature="e#748#749#0" expanded="true" />
-            <element signature="e#3149#3150#0" expanded="true" />
-            <element signature="e#3179#3180#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/makery/address/view/RootLayout.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="46" column="13" lean-forward="false" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/makery/address/MainApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="89" column="25" lean-forward="false" selection-start-line="89" selection-start-column="25" selection-end-line="89" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch/makery/address/util/LocalDateAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -823,6 +793,64 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2814#2815#0" expanded="true" />
             <element signature="e#2851#2852#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch/makery/address/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="294" column="23" lean-forward="false" selection-start-line="294" selection-start-column="23" selection-end-line="294" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch/makery/address/view/BirthdayStatistics.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch/makery/address/view/BirthdayStatisticsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1407">
+          <caret line="67" column="1" lean-forward="false" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch/makery/address/view/RootLayout.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="35" column="81" lean-forward="false" selection-start-line="35" selection-start-column="81" selection-end-line="35" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch/makery/address/view/RootLayoutController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="121" column="41" lean-forward="false" selection-start-line="121" selection-start-column="41" selection-end-line="121" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#3182#3183#0" expanded="true" />
+            <element signature="e#3212#3213#0" expanded="true" />
+            <element signature="e#3285#3286#0" expanded="true" />
+            <element signature="e#3333#3334#0" expanded="true" />
           </folding>
         </state>
       </provider>
